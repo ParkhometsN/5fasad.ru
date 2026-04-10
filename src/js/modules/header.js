@@ -31,7 +31,7 @@ export function GetHeader (){
                             <li><a href="Portfolio.html"><h4>портфолио</h4></a></li>
                             <li><a href="AboutUs.html"><h4>о компании</h4></a></li>
                             <li><a href="#footer"><h4>котнтакты</h4></a></li>
-                            <li><a href="AboutUS.html#partners"><h4>партнерство</h4></a></li>
+                            <li><a href="AboutUs.html#partners"><h4>партнерство</h4></a></li>
                         </nav>
                     </div>
                 </div>
