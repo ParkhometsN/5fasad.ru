@@ -25,7 +25,7 @@ function sendEmail($subject, $body) {
         
         // Отправитель и получатель
         $mail->setFrom('mofmails@gmail.com', '5fasad.ru');
-        $mail->addAddress('parkhometsnikita@gmail.com');
+        $mail->addAddress('5fasad.spb@gmail.com');
         
         $mail->isHTML(true);
         $mail->Subject = $subject;
